@@ -45,4 +45,6 @@ Conexões profissionais e técnicas:
 
 </div>
 
-![Snake animation](https://github.com/seu-usuário-aqui/seu-usuário-aqui/blob/output/github-contribution-grid-snake.svg)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/b0rapox/b0rapox/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+</p>
