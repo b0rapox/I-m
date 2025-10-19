@@ -13,7 +13,7 @@ Minhas ferramentas de trabalho atuais, com foco em desenvolvimento **Full-Stack*
 | Categoria | Tecnologias |
 | :--- | :--- |
 | **Frontend Core** | <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original-wordmark.svg" width="30" height="30"/> **React**, <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" width="30" height="30"/> **Next.js** |
-| **Estilização** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original-wordmark.svg" width="30" height="30"/> Tailwind CSS |
+| **Estilização** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" width="30" height="30"/> Tailwind CSS |
 | **Linguagens** | <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" width="30" height="30"/> **TypeScript** (Foco), <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="30" height="30"/> JavaScript |
 | **Versionamento** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="30" height="30"/> Git |
 
