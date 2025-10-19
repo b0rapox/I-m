@@ -18,11 +18,9 @@ Minhas ferramentas de trabalho atuais, com foco em desenvolvimento **Full-Stack*
 
 ---
 
-## 📈 Minhas Estatísticas de Engenharia
+### 📈 Minhas Estatísticas de Engenharia
 
-Mostrando o volume de trabalho e foco:
-
-[![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=b0rapox&show_icons=true&theme=dark&include_all_commits=true&count_private=true)](https://github.com/b0rapox)
+[![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=b0rapox&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true)](https://github.com/b0rapox)
 
 ---
 
